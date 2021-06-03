@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkuchniak
-- :microscope: I’m interested in GIS, Telemetry and Remote Sensors. 
+- :microscope: I’m interested in GIS, Telemetry and Remote Sensors integration.
 - 🌱 I’m currently learning about crop nutritión, soil health and food traceability.
-- :satellite: I’m looking to collaborate on agtech proyects and food protocols compliance.
+- :satellite: I’m looking to collaborate on agtech projects and food protocols compliance.
 - 📫 jakuchniak@hotmail.com
 
 <!---
